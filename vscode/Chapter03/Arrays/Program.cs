@@ -106,3 +106,4 @@ static string CheckSwitch(int[] values) => values switch
   [2, .. int[] others] => $"Starts with 2, then {others.Length} more numbers.",
   [..] => "Any items in any order.",
 };
+ 
