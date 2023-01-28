@@ -1,4 +1,6 @@
-﻿string[] names; // can reference any size array of strings
+﻿Console.WriteLine("Hello, Danny!");
+Console.WriteLine("Version: 7.0.2");
+string[] names; // can reference any size array of strings
 
 // allocating memory for four strings in an array
 names = new string[4];

@@ -1,4 +1,6 @@
-﻿WriteLine($"There are {args.Length} arguments.");
+﻿Console.WriteLine("Hello, Danny!");
+Console.WriteLine("Version: 7.0.2");
+WriteLine($"There are {args.Length} arguments.");
 
 foreach (string arg in args)
 {
@@ -30,3 +32,4 @@ catch (PlatformNotSupportedException)
 {
   WriteLine("The current platform does not support changing the size of the cursor.");
 }
+   

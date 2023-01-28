@@ -1,0 +1,15 @@
+C:\Users\Fire8\OneDrive\Desktop\Repos\cs11dotnet7\vscode\Chapter03\Arrays\bin\Debug\net7.0\Arrays.exe
+C:\Users\Fire8\OneDrive\Desktop\Repos\cs11dotnet7\vscode\Chapter03\Arrays\bin\Debug\net7.0\Arrays.deps.json
+C:\Users\Fire8\OneDrive\Desktop\Repos\cs11dotnet7\vscode\Chapter03\Arrays\bin\Debug\net7.0\Arrays.runtimeconfig.json
+C:\Users\Fire8\OneDrive\Desktop\Repos\cs11dotnet7\vscode\Chapter03\Arrays\bin\Debug\net7.0\Arrays.dll
+C:\Users\Fire8\OneDrive\Desktop\Repos\cs11dotnet7\vscode\Chapter03\Arrays\bin\Debug\net7.0\Arrays.pdb
+C:\Users\Fire8\OneDrive\Desktop\Repos\cs11dotnet7\vscode\Chapter03\Arrays\obj\Debug\net7.0\Arrays.csproj.AssemblyReference.cache
+C:\Users\Fire8\OneDrive\Desktop\Repos\cs11dotnet7\vscode\Chapter03\Arrays\obj\Debug\net7.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fire8\OneDrive\Desktop\Repos\cs11dotnet7\vscode\Chapter03\Arrays\obj\Debug\net7.0\Arrays.AssemblyInfoInputs.cache
+C:\Users\Fire8\OneDrive\Desktop\Repos\cs11dotnet7\vscode\Chapter03\Arrays\obj\Debug\net7.0\Arrays.AssemblyInfo.cs
+C:\Users\Fire8\OneDrive\Desktop\Repos\cs11dotnet7\vscode\Chapter03\Arrays\obj\Debug\net7.0\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Fire8\OneDrive\Desktop\Repos\cs11dotnet7\vscode\Chapter03\Arrays\obj\Debug\net7.0\Arrays.dll
+C:\Users\Fire8\OneDrive\Desktop\Repos\cs11dotnet7\vscode\Chapter03\Arrays\obj\Debug\net7.0\refint\Arrays.dll
+C:\Users\Fire8\OneDrive\Desktop\Repos\cs11dotnet7\vscode\Chapter03\Arrays\obj\Debug\net7.0\Arrays.pdb
+C:\Users\Fire8\OneDrive\Desktop\Repos\cs11dotnet7\vscode\Chapter03\Arrays\obj\Debug\net7.0\Arrays.genruntimeconfig.cache
+C:\Users\Fire8\OneDrive\Desktop\Repos\cs11dotnet7\vscode\Chapter03\Arrays\obj\Debug\net7.0\ref\Arrays.dll
